@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "TechLab",
-  "short_name": "TechLab",
+  "name": "Teamarkit",
+  "short_name": "Teamarkit",
   "description": "",
   "version": "0.0.1",
   "minimum_chrome_version": "38",
